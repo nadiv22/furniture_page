@@ -1,0 +1,186 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbar-color{
+    background-color: #3b5d50;
+    
+}
+.modern{
+    background-color: #3b5d50;
+}
+.btn1{
+    background: #f9bf29;
+}
+.btn2{
+    background: #3b5d50;
+    border: 1px solid white;
+    color: white;
+}
+@media(max-width:350px){
+    .modern-right{
+        position: relative;
+        top: 15px;
+        left: 20px;
+    }
+    .modern-left{
+        position: relative;
+        top: 150px;
+        left: -150px;
+    }
+}
+
+.product-size{
+    width: 330px;
+}
+
+@media(max-width:775px){
+    .product-1{
+        position: relative;
+        top: 470px;
+        left: -150px;
+        
+    }
+    .product-2{
+        position: relative;
+        top: 870px;
+        left: -450px;
+        right: 100px;
+    }
+    .product-3{
+        position: relative;
+        top: 1300px;
+        left: -850px;
+        
+    }
+}
+.easy{
+    position: relative;
+    left: 450px;
+    bottom: 285px;
+}
+.free{
+    position: relative;
+    left: 450px;
+    bottom: 275px;
+}
+.choose-img{
+    position: relative;
+    left: 850px;
+    bottom: 670px;
+}
+
+@media(max-width:665px){
+    .choose{
+        position: relative;
+        top: 1188px;
+     }
+     .choose-img{
+        position: relative;
+        top: 908px;
+        left: 90px;
+        width: 250%;
+     }
+}
+.images-1{
+    position: relative;
+    bottom: 444px;
+    left: 60px;
+}
+.images-2{
+    position: relative;
+    bottom: 450px;
+    left: 100px;
+}
+.image-3{
+    position: relative;
+    right:  300px;
+    bottom: 190px;
+}
+.three-images-right{
+    position: relative;
+    bottom: 450px;
+    right: 40px;
+}
+.P-30{
+    position: relative;
+    left: 230px;
+    bottom: 130px;
+}
+.P-40{
+    position: relative;
+    left: 230px;
+    bottom: 130px;
+}
+.explore{
+    position: relative;
+    bottom: 100px;
+    left: 20px;
+    border-radius: 12px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+}
+@media(max-width:640px){
+    .three-images{
+        position: relative;
+        top: 1400px;
+    }
+    .three-images-right{
+        position: relative;
+        top: 120px;
+        right: 730px;
+    }
+    .we{
+        font-size: 12px;
+
+    }
+    .P-30{
+        position: relative;
+        bottom: 320px;
+    }
+    .P-40{
+        position: relative;
+        bottom: 320px;
+
+    }
+
+}
+.c-1{
+    position: relative;
+    bottom: 220px;
+    left: 40px;
+}
+.h-1{
+    position: relative;
+    bottom: 200px;
+    left: 90px;
+}
+.c-2{
+    position: relative;
+    bottom: 680px;
+    left: 480px;
+}
+.c-3{
+    position: relative;
+    bottom: 1100px;
+    left: 900px;
+}
+@media(max-width:600px){
+     .chair-1{
+        position: relative;
+        top: 1700px;
+     }
+     .chair-2{
+        position: relative;
+        top: 2200px;
+        right: 370px;
+     }
+     .chair-3{
+        position: relative;
+        top: 2700px;
+        right: 800px;
+     }
+}
